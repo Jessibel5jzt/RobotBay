@@ -1,0 +1,17 @@
+{
+    "name": "WestBay.RobotBay",
+    "rootNamespace": "",
+    "references": [
+        "GUID:47a430e6c3d056e4898c897db752ff51",
+        "GUID:e34a5702dd353724aa315fb8011f08c3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
