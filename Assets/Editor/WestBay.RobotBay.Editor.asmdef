@@ -1,0 +1,19 @@
+{
+    "name": "WestBay.RobotBay.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e002597d41737554f972be5add99b496",
+        "GUID:47a430e6c3d056e4898c897db752ff51"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
